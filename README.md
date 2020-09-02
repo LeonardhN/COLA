@@ -1,2 +1,0 @@
-# COLA
-COLA, AMD64
