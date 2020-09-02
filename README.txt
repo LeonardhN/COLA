@@ -1,3 +1,4 @@
 # COLA
 COLA, AMD64
-Download Cola Now!!
+Download COLA Now!!
+COLA
